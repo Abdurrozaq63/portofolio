@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 :root {
   --background: #fafafa;
@@ -11,11 +11,9 @@
   --border: #e2e8f0;
 }
 
-
 html {
   scroll-behavior: smooth;
 }
-
 
 body {
   background:
@@ -35,7 +33,6 @@ body {
 
   min-height: 100vh;
 }
-
 
 * {
   box-sizing: border-box;
