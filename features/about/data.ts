@@ -16,7 +16,7 @@ export const aboutData = {
 
     {
       icon: FolderGit2,
-      value: '2+',
+      value: '5+',
       title: 'Project',
       description: 'Telah Diselesaikan',
     },
